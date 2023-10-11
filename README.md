@@ -1,0 +1,1 @@
+This is the second optional project I'm taking on to help me solidify the concepts learned in Launch School courses RB175 and RB185, in preparation for the RB189 project assessment. It will be the most complicated networked and database-backed app I've built so far.

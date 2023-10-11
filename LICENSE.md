@@ -1,0 +1,1 @@
+Use this project for whatever non-profit purpose it might be good for.
